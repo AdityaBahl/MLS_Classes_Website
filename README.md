@@ -15,7 +15,7 @@ Jun 2023 - Aug 2023 (3 Months)
 ### Responsibilities
 
 ◦ Developed the platform website using React, Firebase, and Google Cloud to enhance user experience and deployed the
-website on AWS LightSail for optimal performance and scalability.
+website on AWS LightSail for optimal performance and scalability.\
 ◦ Integrated HubSpot for streamlined marketing and user engagement, enhancing communication and tracking.
 
 ## Getting Started with Create React App
