@@ -1,5 +1,7 @@
 # MLS Classes
 
+![mlslogo](https://github.com/AdityaBahl/MLS_Classes_Website/assets/90335449/67e5e633-226e-4ad5-a00e-7304a946439d)
+
 ### Position
 
 Full Stack Web Development Intern
