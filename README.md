@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# MLS Classes
+
+### Position
+
+Full Stack Web Development Intern
+
+### Location
+
+USA, Remote
+
+### Duration
+
+Jun 2023 - Aug 2023 (3 Months)
+
+### Responsibilities
+
+◦ Developed the platform website using React, Firebase, and Google Cloud to enhance user experience and deployed the
+website on AWS LightSail for optimal performance and scalability.
+◦ Integrated HubSpot for streamlined marketing and user engagement, enhancing communication and tracking.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
